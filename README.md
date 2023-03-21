@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a design-minded front-end developer focused on building exceptional digital experiences. I am highly adaptable and driven by learning. If there is a problem, I seek ways to fix it. Whether it takes reading a book or picking up a lesson in a new framework, I’ve alwaysbeen eager to solve the challenges that development can bring.
 
-###INTEREST
+### INTEREST
 All things audio and musicproduction - including sounddesign,composition, mixing andmastering.
 When not codingI’m eitherplaying my guitars,sampling vinyl or spendingtime outside with my dog.
 
