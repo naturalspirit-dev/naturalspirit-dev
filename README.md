@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **romanmorris/romanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a design-minded front-end developer focused on building exceptional digital experiences. I am highly adaptable and driven by learning. If there is a problem, I seek ways to fix it. Whether it takes reading a book or picking up a lesson in a new framework, I’ve alwaysbeen eager to solve the challenges that development can bring.
+I am a design-minded front-end developer && blockchain focused on building exceptional digital experiences, highly versatile and driven by learning. When problems arise, I seek ways to fix them. Whether it takes reading a book or picking up a lesson in a new framework, I’ve always been eager to solve the challenges that development can bring. Also I am working on Blockchain technology as well like EthereumSmart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
 
 #### INTEREST
 All things audio and musicproduction - including sounddesign,composition, mixing andmastering.
