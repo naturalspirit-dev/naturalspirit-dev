@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a design-minded front-end developer && blockchain focused on building exceptional digital experiences, highly versatile and driven by learning. When problems arise, I seek ways to fix them. Whether it takes reading a book or picking up a lesson in a new framework, I’ve always been eager to solve the challenges that development can bring. Also I am working on Blockchain technology as well like EthereumSmart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
+I am a design-minded front-end && blockchain developer focused on building exceptional digital experiences, highly versatile and driven by learning. When problems arise, I seek ways to fix them. Whether it takes reading a book or picking up a lesson in a new framework, I’ve always been eager to solve the challenges that development can bring. Also I am working on Blockchain technology as well like EthereumSmart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
 
 #### INTEREST
 All things audio and musicproduction - including sounddesign,composition, mixing andmastering.
