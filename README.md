@@ -1,24 +1,17 @@
-## Hi there 👋
+plagiarize
+verb
+pla·​gia·​rize ˈplā-jə-ˌrīz 
+ also  -jē-ə-
+plagiarized; plagiarizing
+Synonyms of plagiarize
 
-<!--
-**romanmorris/romanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+transitive verb
+: to steal and pass off (the ideas or words of another) as one's own : use (another's production) without crediting the source
 
-Here are some ideas to get you started:
+intransitive verb
+: to commit literary theft : present as new and original an idea or product derived from an existing source
+plagiarizer noun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a design-minded front-end && blockchain developer focused on building exceptional digital experiences, highly versatile and driven by learning. When problems arise, I seek ways to fix them. Whether it takes reading a book or picking up a lesson in a new framework, I’ve always been eager to solve the challenges that development can bring. Also I am working on Blockchain technology as well like EthereumSmart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
-
-#### INTEREST
-All things audio and musicproduction - including sounddesign,composition, mixing andmastering.
-When not codingI’m eitherplaying my guitars,sampling vinyl or spendingtime outside with my dog.
 
 
 
