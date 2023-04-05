@@ -1,4 +1,4 @@
-## Hi there 👋
+## FRONT END & BLOCKCHAIN DEVELOPER
 
 <!--
 **romanmorris/romanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a design-minded front-end && blockchain developer focused on building exceptional digital experiences, highly versatile and driven by learning. When problems arise, I seek ways to fix them. Whether it takes reading a book or picking up a lesson in a new framework, I’ve always been eager to solve the challenges that development can bring. Also I am working on Blockchain technology as well like EthereumSmart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
-
-#### INTEREST
-All things audio and musicproduction - including sounddesign,composition, mixing andmastering.
-When not codingI’m eitherplaying my guitars,sampling vinyl or spendingtime outside with my dog.
+ Front-End Developer with proven experience at Applify and Speridian Technologies in helping companies create and maintain a better code base for reusability. Passionate about learning and development with a desire to apply skills on a larger development team at Redfin. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. I am working on Blockchain technology as well like Ethereum Smart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
 
 
 
