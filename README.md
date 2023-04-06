@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  Front-End Developer with proven experience at Applify and Speridian Technologies in helping companies create and maintain a better code base for reusability. Passionate about learning and development with a desire to apply skills on a larger development team at Redfin. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. I am working on Blockchain technology as well like Ethereum Smart Contract, Layer 2 solutions. I am a fast learner so I can work with any unfamiliar programming.
-
-
-
