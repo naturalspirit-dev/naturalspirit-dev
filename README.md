@@ -1,4 +1,4 @@
-## FRONT END & BLOCKCHAIN DEVELOPER
+## FRONT END & BLOCKCHAIN DEVELOPER ##
 
 <!--
 **romanmorris/romanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
